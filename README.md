@@ -2,7 +2,7 @@
 ![ROCK](/figs/ccr_rock_diag.png)
 
 
-This repo contains official code for the ICML 2022 paper [Causal Inference Principles for Reasoning about Commonsense Causality](https://arxiv.org/abs/2202.00436) by [Jiayao Zhang](https://www.jiayao-zhang.com), [Hongming Zhang](https://panda0881.github.io/Hongming_Homepage/), [Weijie J. Su](https://statistics.wharton.upenn.edu/profile/suw/), and [Dan Roth](https://www.cis.upenn.edu/~danroth/).
+This repo contains official code for the ICML 2022 paper [ROCK: Causal Inference Principles for Reasoning about Commonsense Causality](https://arxiv.org/abs/2202.00436) by [Jiayao Zhang](https://www.jiayao-zhang.com), [Hongming Zhang](https://panda0881.github.io/Hongming_Homepage/), [Weijie J. Su](https://statistics.wharton.upenn.edu/profile/suw/), and [Dan Roth](https://www.cis.upenn.edu/~danroth/).
 
 
 
