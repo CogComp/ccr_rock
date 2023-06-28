@@ -85,12 +85,11 @@ three that make use of language models and the default choices.
 ## Reference
 
 ```bib
-@misc{zhang2022causal,
-      title={Causal Inference Principles for Reasoning about Commonsense Causality}, 
-      author={Jiayao Zhang and Hongming Zhang and Weijie J. Su and Dan Roth},
-      year={2022},
-      eprint={2202.00436},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{ZZSR22,
+    author = {Jiayao Zhang and Hongming Zhang and Weijie J. Su and Dan Roth},
+    title = {{ROCK: Causal Inference Principles for Reasoning about Commonsense Causality}},
+    booktitle = {Proc. of the International Conference on Machine Learning (ICML)},
+    year = {2022},
+    url = "https://cogcomp.seas.upenn.edu/papers/ZZSR22.pdf",
 }
 ```
